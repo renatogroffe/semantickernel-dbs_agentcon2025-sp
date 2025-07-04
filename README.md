@@ -19,3 +19,7 @@ Mais exemplos de implementação (todos utilizando OpenTelemetry + Semantic Kern
 ## Um exemplo de arquitetura
 
 ![Arquitetura](docs/ai-opentelemetry.png)
+
+---
+
+https://globalai.community/chapters/sao-paulo/events/agentcon-2025-sao-paulo
