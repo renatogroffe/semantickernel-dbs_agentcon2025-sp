@@ -24,7 +24,9 @@ Mais exemplos de implementação (todos utilizando OpenTelemetry + Semantic Kern
 
 ## Informações sobre o evento
 
-Título da apresentação: **Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribuídas em .NET e outras stacks**
+Título da apresentação: **Utilizando seus Dados em Bases Relacionais com IAs Generativas: um exemplo com Semantic Kernel**
+
+Descritivo: *Confira nesta apresentação como tirar proveito de forma descomplicada de seus dados que estejam em bases transacionais com aplicações que utilizem capacidades de inteligência artificiais generativas, seja um banco SQL Server, PostgreSQL, MySQL, Oracle... Tudo isso através do uso do projeto Semantic Kernel, uma alternativa extensível, facilmente integrável a aplicações .NET, Java e Python, além de compatível com os principais modelos de IA do mercado (incluindo suporte a Azure OpenAI, Llama...)!*
 
 Evento: **AgentCon 2025 São Paulo**
 
