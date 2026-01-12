@@ -63,3 +63,7 @@ Deixo aqui meus agradecimentos à **Cynthia Zanoni (Global Cloud Advocate - Micr
 ![Site Print 1](img/site-01.png)
 
 ![Site Print 2](img/site-02.png)
+
+![Site Palestra Renato 1](img/site-palestra-renato-01.png)
+
+![Site Palestra Renato 2](img/site-palestra-renato-02.png)
