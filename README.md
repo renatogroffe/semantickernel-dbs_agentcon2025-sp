@@ -28,7 +28,7 @@ Título da apresentação: **Observabilidade Unificada com OpenTelemetry: tracin
 
 Evento: **AgentCon 2025 São Paulo**
 
-Data: **18/09/2025 (sábado)**
+Data: **07/06/2025 (sábado)**
 
 Tecnologias e tópicos abordados: **OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker, Docker Compose, Kubernetes, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, .NET, ASP.NET Core, Java, Spring Boot, Apache Camel, Node.js, Visual Studio Code, Linux, Python, FastAPI...**
 
