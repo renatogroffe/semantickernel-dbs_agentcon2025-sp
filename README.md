@@ -32,7 +32,7 @@ Evento: **AgentCon 2025 São Paulo**
 
 Data: **07/06/2025 (sábado)**
 
-Tecnologias e tópicos abordados: **OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker, Docker Compose, Kubernetes, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, .NET, ASP.NET Core, Java, Spring Boot, Apache Camel, Node.js, Visual Studio Code, Linux, Python, FastAPI...**
+Tecnologias e tópicos abordados: **.NET 9, Semantic Kernel, Azure OpenAI, Ollama, OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker, Docker Compose, Application Insights, Azure Monitor, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, Java, Visual Studio Code, Linux, Python...**
 
 Número de participantes: **200 pessoas (estimativa, presencial + online)**
 
