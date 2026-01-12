@@ -40,6 +40,8 @@ Página do evento: **https://globalai.community/chapters/sao-paulo/events/agentc
 
 Local: **FIAP - Aclimação - Avenida Lins de Vasconcelos, 1222 - Aclimação - São Paulo-SP - CEP: 01538-001**
 
+Acesse este [**link**](/img/) para visualizar todas as fotos/prints da apresentação.
+
 Deixo aqui meus agradecimentos à **Cynthia Zanoni (Global Cloud Advocate - Microsoft, WoMakersCode)**, à **Larissa Cyganski (Microsoft Reactor)** e ao **Glaucio Daniel (Microsoft MVP)** por todo o apoio para que que participasse como palestrante do **AgentCon 2025 São Paulo**.
 
 ---
