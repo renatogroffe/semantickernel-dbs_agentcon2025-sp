@@ -28,7 +28,7 @@ Título da apresentação: **Observabilidade Unificada com OpenTelemetry: tracin
 
 Evento: **AgentCon 2025 São Paulo**
 
-Data: **18/09/2025 (quinta-feira)**
+Data: **18/09/2025 (sábado)**
 
 Tecnologias e tópicos abordados: **OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker, Docker Compose, Kubernetes, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, .NET, ASP.NET Core, Java, Spring Boot, Apache Camel, Node.js, Visual Studio Code, Linux, Python, FastAPI...**
 
@@ -36,9 +36,9 @@ Número de participantes: **200 pessoas (estimativa, presencial + online)**
 
 Página do evento: **https://globalai.community/chapters/sao-paulo/events/agentcon-2025-sao-paulo**
 
-Local: **PRO MAGNO Centro de Eventos - Avenida Professora Ida Kolb, 513 - Jardim das Laranjeiras - São Paulo-SP - CEP: 02518-000**
+Local: **FIAP - Aclimação - Avenida Lins de Vasconcelos, 1222 - Aclimação - São Paulo-SP - CEP: 01538-001**
 
-Deixo aqui meus agradecimentos aos amigos **Bruno Brito (Microsoft MVP, Docker Captain)**, **Antonio Maniero (Microsoft MVP)**, **Alexandre Santos Costa (Microsoft)** e **Vinicius Clímaco (Microsoft MVP)**, que coordenaram a trilha de Arquitetura .NET e nos deram todo o apoio para que palestrássemos nesta edição do **TDC**.
+Deixo aqui meus agradecimentos à **Cynthia Zanoni (Global Cloud Advocate - Microsoft, WoMakersCode)**, à **Larissa Cyganski (Microsoft Reactor)** e ao **Glaucio Daniel (Microsoft MVP)**, por todo o apoio para que que participasse como palestrante do **AgentCon 2025 São Paulo**.
 
 ---
 
