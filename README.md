@@ -34,7 +34,7 @@ Data: **07/06/2025 (sábado)**
 
 Tecnologias e tópicos abordados: **.NET 9, Semantic Kernel, Azure OpenAI, Ollama, OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker, Docker Compose, SQL Server, Azure SQL, PostgreSQL, MySQL, Oracle, Application Insights, Azure Monitor, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, Java, Visual Studio Code, Linux, Python...**
 
-Número de participantes: **200 pessoas (estimativa, presencial + online)**
+Número de participantes: **137 pessoas**
 
 Página do evento: **https://globalai.community/chapters/sao-paulo/events/agentcon-2025-sao-paulo**
 
